@@ -1,0 +1,68 @@
+
+body{
+   width: 100%;
+   height: 100vh;
+    
+   }
+
+.load{
+        width: 100%;
+        height: 100vh;
+        position: absolute;
+        background: #480091;
+        background: -moz-linear-gradient(-45deg, #480091 0%, #ff0084 100%); /* FF3.6-15 */
+        background: -webkit-linear-gradient(-45deg, #480091 0%,#ff0084 100%); /* Chrome10-25,Safari5.1-6 */
+        background: linear-gradient(135deg, #480091 0%,#ff0084 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#480091', endColorstr='#ff0084',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+        color: #CA772C;
+        z-index: 100;    
+
+    }
+
+.logo{
+    height: 50vh;
+    width: 70%;
+    padding: 40px;
+    padding-top: 50px;
+    background-size: cover;
+    background-position: center;
+
+
+}
+
+.container{
+    background-image:url(../img/jakarta-1948146_1920-960x640.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height:100vh;  
+}
+
+.logo-rosado{
+    widows: 100%;
+    height: 270px;
+    margin-top: 150px;
+   
+}
+
+.dropdown-menu img{
+    width: 10%;
+    height: auto;
+
+}
+
+.modal-header{
+    background-color:#2b1e66;
+    color: #000;
+
+}
+.modal-body{
+    background-color:#2b1e66;
+    color: #000;
+
+}
+.modal-footer{
+    background-color:#2b1e66;
+    color: #000;
+}
+
